@@ -17,15 +17,4 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
   </p>
-
-  <h4>The most interesting of my projects:</h4>
- 
-  <ul>
-    <li><a href="https://motyabolt.github.io/Weather-App-React/">Weather App</a></li>
-    <i>An application that visualizes weather conditions</i>
-    <li><a href="https://motyabolt.github.io/Pomodoro-Clock-React/" >Pomodoro Timer</a></li>
-    <i>A time management application based on the pomodoro technique</i>
-  </ul>
-
-  
   
