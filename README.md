@@ -41,6 +41,17 @@ I care about clean code and getting the details right.
 
 ---
 
+### 🚀 Featured Projects
+
+**[♟️ Tabiya](https://github.com/matvbolt/tabiya)** — [live demo](https://tabiya-one.vercel.app)
+
+A chess platform where you play, learn and earn on one board. Real-time rated
+games and friend challenges, a Stockfish bot with on-board hints, opening
+theory, world rankings, and community guides with a ChessCoin economy.
+Built with React, TypeScript, Vite and Supabase.
+
+---
+
 ### 🌐 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matvey-bolt/)
