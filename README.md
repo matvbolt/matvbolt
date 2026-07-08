@@ -43,12 +43,10 @@ I care about clean code and getting the details right.
 
 ### 🚀 Featured Projects
 
-**[♟️ Tabiya](https://github.com/matvbolt/tabiya)** — [live demo](https://tabiya-one.vercel.app)
+**[Tabiya](https://github.com/matvbolt/tabiya)** — [live demo](https://tabiya-one.vercel.app)
 
-A chess platform where you play, learn and earn on one board. Real-time rated
-games and friend challenges, a Stockfish bot with on-board hints, opening
-theory, world rankings, and community guides with a ChessCoin economy.
-Built with React, TypeScript, Vite and Supabase.
+Online chess app: real-time games, a Stockfish bot, opening theory and
+community articles. Built with React, TypeScript, Vite and Supabase.
 
 ---
 
