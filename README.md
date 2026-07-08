@@ -41,14 +41,6 @@ I care about clean code and getting the details right.
 
 ---
 
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matvbolt&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matvbolt&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-
----
-
 ### 🌐 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matvey-bolt/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.boltach.work@gmail.com)
